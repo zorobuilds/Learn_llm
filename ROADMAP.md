@@ -3,6 +3,8 @@
 
 This document outlines the entire curriculum of TorchPy across 4 distinct seasons. Every single concept is introduced with visual intuition first, mathematical rigor second, and runnable Python/PyTorch code third.
 
+> 📥 **Download the Complete 6-Page Blueprint (PDF):** [`docs/TorchPy_Roadmap_Blueprint.pdf`](docs/TorchPy_Roadmap_Blueprint.pdf) &bull; [Direct Raw Download](https://github.com/zorobuilds/Learn_llm/raw/main/docs/TorchPy_Roadmap_Blueprint.pdf)
+
 ---
 
 ## 🟢 Season 1: Neural Foundations (Episodes 1 – 5)

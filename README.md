@@ -29,7 +29,7 @@ We start with a single artificial neuron written in pure Python and culminate in
 
 📖 **Full Syllabus & Technical Blueprint:**
 * Check out the [ROADMAP.md](ROADMAP.md) for in-depth season breakdowns.
-* Download the complete 6-page master PDF: [`docs/TorchPy_Roadmap_Blueprint.pdf`](docs/TorchPy_Roadmap_Blueprint.pdf).
+* Download the complete 6-page master PDF: [`docs/TorchPy_Roadmap_Blueprint.pdf`](docs/TorchPy_Roadmap_Blueprint.pdf) &bull; [Direct Raw Download](https://github.com/zorobuilds/Learn_llm/raw/main/docs/TorchPy_Roadmap_Blueprint.pdf).
 
 ---
 
