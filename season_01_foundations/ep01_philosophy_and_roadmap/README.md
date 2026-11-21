@@ -1,7 +1,10 @@
 # Episode 01: The Philosophy, Intuition & The 4-Season Roadmap
 
-[![Watch Episode 01 on YouTube](https://img.shields.io/badge/YouTube-Watch%20Episode%2001-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/) 
+[![Watch Episode 01 on YouTube](https://img.shields.io/badge/YouTube-Watch%20Episode%2001-red?style=for-the-badge&logo=youtube)](https://youtu.be/O4HBXGLMyXo)
+[![Subscribe on YouTube](https://img.shields.io/badge/Channel-Subscribe-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCDkOD0rRC6KI0K9hvvBTNXg)
 
+> 🎥 **Video URL:** [https://youtu.be/O4HBXGLMyXo](https://youtu.be/O4HBXGLMyXo)  
+> 📺 **Official Channel:** [https://www.youtube.com/channel/UCDkOD0rRC6KI0K9hvvBTNXg](https://www.youtube.com/channel/UCDkOD0rRC6KI0K9hvvBTNXg)
 
 ---
 

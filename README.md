@@ -1,15 +1,18 @@
-# TorchPy 🧠
+# Learn_llm 🧠
 > **Build Neural Networks from First Principles. From 1 Neuron in Pure Python to a 42M Conversational LLM.**
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-TorchPy%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCDkOD0rRC6KI0K9hvvBTNXg)
+[![Watch Episode 1](https://img.shields.io/badge/Episode%2001-Watch%20Now-blue?style=for-the-badge&logo=youtube)](https://youtu.be/O4HBXGLMyXo)
 
 ---
 
-## 🎬 About TorchPy
+## 🎬 About This Repository
 
 Most people learn AI in one of two flawed ways:
 1. **The API Wrapper Trap:** Calling `import openai` or `transformers.pipeline(...)`. It creates apps, but teaches zero intelligence about how neural networks actually think, learn, and generalize.
 2. **The 400-Page Textbook Trap:** Drowning in walls of Greek calculus formulas with zero connection to runnable, debuggable code.
 
-**TorchPy takes the third path:** Building every single layer, tensor operation, attention mechanism, and training loop from scratch. 
+**Learn_llm takes the third path:** Building every single layer, tensor operation, attention mechanism, and training loop from scratch. 
 
 We start with a single artificial neuron written in pure Python and culminate in a custom **42-million parameter, chat-aligned, instruction-tuned Large Language Model (V4)** trained on real hardware.
 
@@ -26,14 +29,14 @@ We start with a single artificial neuron written in pure Python and culminate in
 
 📖 **Full Syllabus & Technical Blueprint:**
 * Check out the [ROADMAP.md](ROADMAP.md) for in-depth season breakdowns.
-* Download the complete 10-page master PDF: [`docs/TorchPy_Roadmap_Blueprint.pdf`](docs/TorchPy_Roadmap_Blueprint.pdf).
+* Download the complete 6-page master PDF: [`docs/TorchPy_Roadmap_Blueprint.pdf`](docs/TorchPy_Roadmap_Blueprint.pdf).
 
 ---
 
 ## 📺 Episodes & Repository Directory
 
 ### 🟢 Season 1: Neural Foundations
-* **Episode 01:** [The Philosophy, Intuition & The 4-Season Roadmap](season_01_foundations/ep01_philosophy_and_roadmap/)
+* **Episode 01:** [The Philosophy, Intuition & The 4-Season Roadmap](season_01_foundations/ep01_philosophy_and_roadmap/) &bull; [▶️ Watch on YouTube](https://youtu.be/O4HBXGLMyXo)
 * **Episode 02:** *Building a Single Neuron from Scratch in Pure Python* *(Coming Soon)*
 * **Episode 03:** *Forward Propagation & Matrix Tensor Shapes* *(Coming Soon)*
 * **Episode 04:** *Backpropagation from Scratch: The Chain Rule in Code* *(Coming Soon)*
@@ -41,7 +44,8 @@ We start with a single artificial neuron written in pure Python and culminate in
 
 ---
 
-## 🤝 Community & Contributing
+## 🤝 Community & Links
 
-* **YouTube Channel:** [Subscribe to TorchPy](https://youtube.com/) *(Add your channel link here)*
-* Star ⭐ this repository to follow along as each episode and codebase drops!
+* **YouTube Channel:** [TorchPy Official Channel](https://www.youtube.com/channel/UCDkOD0rRC6KI0K9hvvBTNXg)
+* **Episode 01 Video:** [Watch Episode 01: The Philosophy & Roadmap](https://youtu.be/O4HBXGLMyXo)
+* Star ⭐ this repository (`Learn_llm`) to follow along as each episode drops!
